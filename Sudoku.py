@@ -64,3 +64,6 @@ num = "9401000080080000960260080000600010040590207000076000006704000005002000000
 values = values_from_grid(num)
 solver(values)
 print(values)
+
+"""
+- [Pythonで数独を解く](https://qiita.com/wsldenli/items/78596c8775a0673f255e)
