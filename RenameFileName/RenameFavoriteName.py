@@ -67,7 +67,7 @@ def changeName_2():
         i = i + 1
 
 
-changeName_2()
+changeName_1()
 
 """
 参考サイト
